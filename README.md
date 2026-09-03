@@ -18,7 +18,7 @@ Using instruction:
 
 2. Replace all processed images to single folder.
   
-3. Run the program "EVOS_cell_counting"
+3. Run the program "EVOS_cell_counting.py"
    
    3.1 Enter the folder path WITHOUT apostrophe (' or ")
    
