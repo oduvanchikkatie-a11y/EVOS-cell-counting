@@ -24,4 +24,6 @@ Using instruction:
    
    3.2 Enter name of csv file that will be created. Extension CSV will be added automatically.
 
+   3.3 I recommend to check counting manually for at least two images and (if needed) calibrate parameters of MIN and MAX AREA of counted cells. MIN and MAX area depends on microscope magnification used (here parameters set for spermatozoa at 20x magnification) and individual style of processing images.
+
 4. Enjoy!
